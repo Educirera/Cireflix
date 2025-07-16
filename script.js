@@ -17,6 +17,7 @@ const btnAddSerie = document.getElementById('btnAddSerie');
 const messageContainer = document.getElementById('message-container');
 const itemNotesInput = document.getElementById('item-notes'); // ¡CORRECCIÓN: Esta línea faltaba!
 
+
 // Campos de progreso en el modal de AÑADIR (no se usan para introducir progreso directamente al añadir)
 const progressFields = document.getElementById('progress-fields');
 const itemSeasonInput = document.getElementById('item-season');
